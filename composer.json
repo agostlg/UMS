@@ -15,8 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "UMS\\": "src/",
-            "web\\": "web/"
+            "UMS\\": "src/"
         }
     }
 }
